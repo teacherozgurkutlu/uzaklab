@@ -1,0 +1,48 @@
+.logout {
+float: right;
+margin: 20px 20px;
+
+}
+.baslik{
+    margin-top: 5%;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.icerik{
+    
+    margin-bottom: 30px;
+    text-align: center;
+     
+    
+}
+.lead{
+    font-weight: bold;
+}
+.led{
+    margin-left: 0px;
+    
+}
+.swt{
+    margin-left: 0px !important;
+    padding-left: 0px !important;
+}
+.container{
+    margin-left:40px;
+    margin: 0px auto;
+}
+@media screen and (max-width: 600px) {
+    .baslik {
+     
+      /*background-color: lightcoral;*/
+    }
+    p.lead {
+        font-size: 13px;
+    }
+    h1{
+        font-size: 20px;
+    }
+    .logout{
+       
+    }
+    
+  }
